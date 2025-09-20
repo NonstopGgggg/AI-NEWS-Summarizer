@@ -8,10 +8,10 @@
 This **small** AI model will only be used for discord bots at the moment. This AI should be able to access websites in Thailand.
 <br>
 
-## Tools and Resources
-### Tools
+## Tools
 1. Discord bot
-2. Google Cloud - App Engine
+2. Docker server
+3. Docker MCP
+4. Claude Desktop
 
-### Resources
 <br>
