@@ -9,5 +9,9 @@ This **small** AI model will only be used for discord bots at the moment. This A
 <br>
 
 ## Tools and Resources
-1. discord bots
+### Tools
+1. Discord bot
+2. Google Cloud - App Engine
+
+### Resources
 <br>
