@@ -6,6 +6,7 @@
 
 ## Scope
 This **small** AI model will only be used for discord bots at the moment. This AI should be able to access websites in Thailand.
+
 <br>
 
 ## Tools
@@ -13,5 +14,3 @@ This **small** AI model will only be used for discord bots at the moment. This A
 2. Docker server
 3. Docker MCP
 4. Claude Desktop
-
-<br>
